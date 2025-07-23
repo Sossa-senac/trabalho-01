@@ -16,7 +16,7 @@ public class atv_05 {
 			System.out.println("Parabéns! você está aprovado ");
 			
 		}else {
-			System.out.println("BUÁ BUÁ, você está reprovado ");
+			System.out.println("BUÁ BUÁ, ");
 			
 			nota.close();
 		}
